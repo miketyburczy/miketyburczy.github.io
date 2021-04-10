@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background: #333;
+  background: rgb(230, 230, 231);
   text-align: center;
 }
 
@@ -23,8 +23,8 @@ h1 {
   margin: 0;
   margin-bottom: 20px;
   font-size: 28px;
-  color: #eee;
-  text-align: center;
+  color: rgb(29, 148, 196);
+  text-align: left;
 }
 
 h2 {
