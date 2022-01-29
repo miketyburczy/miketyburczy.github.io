@@ -2125,6 +2125,7 @@ font-size: 10px;
   background: #d3dee5;
   padding: 15px;
   margin: 15px 0 0;
+  font-size: 15px;
 }
 .resume .func .skills-soft ul {
   display: flex;
@@ -2133,6 +2134,7 @@ font-size: 10px;
 }
 .resume .func .skills-soft ul li {
   position: relative;
+  list-style-type: none;
 }
 .resume .func .skills-soft ul li:hover svg .cbar {
   stroke: #436677;
@@ -2148,11 +2150,11 @@ font-size: 10px;
   transform: rotate(-90deg);
 }
 .resume .func .skills-soft ul li svg circle {
-  stroke-width: 1px;
+  stroke-width: 10px;
   stroke: white;
 }
 .resume .func .skills-soft ul li svg .cbar {
-  stroke-width: 3px;
+  stroke-width: 5px;
   stroke: #e3c099;
   stroke-linecap: round;
 }
@@ -2165,7 +2167,7 @@ font-size: 10px;
   transition-duration: 0.3s;
 }
 .resume .func .skills-soft ul li span {
-  top: 40%;
+  top: 25%;
 }
 .resume .func .interests {
   background: #d3dee5;
